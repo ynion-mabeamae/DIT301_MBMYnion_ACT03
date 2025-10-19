@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProfileUI</string>
+    <string name="profile_picture_desc">Profile picture of Ma. Bea Mae Ynion</string>
+    <string name="user_name">Ma. Bea Mae Ynion</string>
+    <string name="bio_description">Passionate web developer with experience creating user-friendly applications. Love working on UI/UX design and exploring new technologies.</string>
+    <string name="edit_profile">Edit Profile</string>
+</resources>
